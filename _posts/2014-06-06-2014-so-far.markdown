@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "2014 So Far"
+date:   2014-06-06 19:30:00
+---
+
+2014 is special for me. My last blog post in this site almost 6 months ago was all about coming back to my life in 2014. 2013 was all about going down. But 2014 is far better compared to 2014. It was not all glory - a roller coaster ride in-fact.
+
+The most important difference was - 2014 made me more optimistic. I'm now feeling that I can do something in this life. But part of me still stays that I'm being over-optimistic which is giving me a false sense of relief.
+
+But still...
+
+Other things happened in my life in 2014 is being surrounded by people who share the same mindset as mine. I've met amazing people from programmers to travelers to startup ninjas. Writing about these people requires another blog post if not a book! It was an amazing experience and I'm looking forward to meet many more amazing people in coming days too.
+
+In programming world, I'm moving slowly but steadily in the world of frontend development. I'm still a beginner in this world, but I managed to write a few web apps and launch it in the cloud. One of them was a small game :) I feel very proud about that. At times, I feel a little burned out. But my love for this little beautiful language called JavaScript bring me back on track. Javascript has became a faithful companion of me on my recovery journey. I've opensourced all of my apps and you can see them over here - [https://github.com/ansal](https://github.com/ansal) I also write about these projects in another blog - [http://learnjsbydoingprojects.tumblr.com/](http://learnjsbydoingprojects.tumblr.com/)
+
+Currently I'm trying to learn more about Javascript using Crockford's JS Good Parts. Also I'm very much inspired by [Alex Maccaw](http://alexmaccaw.com/)'s work and I'm becoming more interested in client side MVCs too. I've been reading his posts and his book - JS Web Applications with much enthusiasm. I've two projects going on too. One is a group chat app using BackboneJS, Socket.io and node. Other one is a small space war game :) Writing games is one of the most rewarding programming experience I had this year and I'm totally loving it.
+
+I hadn't done much traveling this year so far. Apart from a couple of short treks, I didn't go anywhere this year. But I'm planning to get back on road late this year.
+
+Health wise, I feel like I went back a few years. I feel more energetic. But the real killer - sleeplessness is still there. This part of me, which I hate most, is still there and absolutely brings me back to 2013 state. I still don't know how to get rid of it. Sometimes I turn these sleepless nights to all night coding days. But sometimes I cant. But as I said before, I wont let it stop chasing my dreams. I will fight back.
+
+Nothing has changed in the financial side too. Its pretty much the same as 2013. Like the last year, I'm doing some random jobs, some technical, some non technical and earning some money here and there. Most of the time I was okay with the money I had, but at times It was very difficult to live with the little money I had. But still its okay, I'm far ahead than those people living in poverty.
+
+Thats about it. Even though there has been downs, it was less compared to 2013. I consider myself lucky to be in the situation I'm right now. I'm looking forward to the rest of the year with a lot of hopes.
+
+Wish me luck. Thanks for reading.

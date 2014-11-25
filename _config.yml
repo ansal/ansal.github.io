@@ -1,0 +1,8 @@
+title:        'Ansal Supertramp'
+tagline:      'Ansal Supertramp'
+description:  'I love the Web and the Himalayas.'
+url:          http://andhyde.com
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
