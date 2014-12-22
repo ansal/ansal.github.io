@@ -1,4 +1,4 @@
-ansals.me
+http://blog.ansals.me
 =========
 
-Source code for my website www.ansals.me
+Source code for my blog http://blog.ansals.me

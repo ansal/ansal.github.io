@@ -146,5 +146,3 @@ Note that the token is obtained from our previous request to oauth2/access_token
     {"user": "apitester"}
 
 And thats it! I hope this small example will help you get started with building OAuth2.0 providers in Django. The type of authentication we used here is called [OAuth 2 (two-legged)](https://github.com/Mashape/mashape-oauth/blob/master/FLOWS.md#oauth-2-two-legged). You can find many more types in Mashape's OAuth bible.
-
-If you run into any problems while following this article, please give me a [tweet](https://twitter.com/ansal_sa) or write to [me](mailto:ansal@bssatech.com).
