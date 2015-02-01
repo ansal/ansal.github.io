@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning New Things"
-date:   2015-1-30 60:00:00
+date:   2015-01-31 06:00:00
 ---
 
 I almost work over 8 hours per day these days. Before I started freelancing fulltime, I had plenty of time to try new things and deepen my existing knowledge. I used to roam around in NPM world for new node packages, find something interesting, install it on my machine and there goes my whole day. But I loved it.
