@@ -2,7 +2,7 @@ title:        'Ansal Supertramp'
 tagline:      'Ansal Supertramp'
 description:  'Javascript Developer'
 url:          http://blog.ansals.me
-markdown:     rdiscount
+markdown:     kramdown
 permalink:    pretty
 pygments:     true
 paginate:     5
