@@ -3,7 +3,6 @@ title:        'Ansal Supertramp'
 tagline:      'Ansal Supertramp'
 description:  'Javascript Developer'
 url:          http://blog.ansals.me
-<<<<<<< HEAD
 date_format: "%d %-b, %Y"
 
 # Google services
@@ -52,9 +51,6 @@ share_hackernews: false
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-=======
-markdown:     kramdown
->>>>>>> 3fa9a875958f2ddc62882337bc1ec34aacf67771
 permalink:    pretty
 paginate:     4
 sass:
