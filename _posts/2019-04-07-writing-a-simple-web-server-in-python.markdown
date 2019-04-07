@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Writing a simple web server in Python"
-date:2019-04-07 15:16:00
+date:   2019-04-07 15:16:00
 ---
 
 Last year I read a couple of networking text books - [Computer networking by
