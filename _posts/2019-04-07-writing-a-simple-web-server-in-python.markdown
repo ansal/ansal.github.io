@@ -16,7 +16,7 @@ in Python.
 The idea was that I will build a web server that can serve files over HTTP. So
 it should do what `python -m SimpleHTTPServer` does when ran in a command line.
 
-[https://github.com/ansal/http-server](https://github.com/ansal/http-serverv)
+[https://github.com/ansal/http-server](https://github.com/ansal/http-server)
 is my humble attempt to build a web Server using raw sockets offered by Python.
 And the following sections describe how I built it. The source code also
 contains a lot of comments that explain how everything works.
