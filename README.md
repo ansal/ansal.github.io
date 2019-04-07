@@ -1,4 +1,4 @@
 http://blog.ansals.me
 =========
 
-Source code for my blog http://blog.ansals.me
+Jekyll source for my blog http://blog.ansals.me
