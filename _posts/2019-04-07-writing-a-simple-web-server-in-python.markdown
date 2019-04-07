@@ -4,6 +4,8 @@ title:  "Writing a simple web server in Python"
 date:   2019-04-07 15:16:00
 ---
 
+And learning about Python's Sockets and HTTP too!
+
 Last year I read a couple of networking text books - [Computer networking by
 UCLouvain](http://cnp3book.info.ucl.ac.be/) and [Computer networking by
 Tanenbaum](https://www.goodreads.com/book/show/166190.Computer_Networks). Since
