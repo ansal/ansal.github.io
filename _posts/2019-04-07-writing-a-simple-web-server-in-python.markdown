@@ -73,5 +73,5 @@ my browser from my server!
 
 I am thinking of continue writing programs that implement low level network
 protocols as it is much more fun and informative than just reading books. A
-simple Python bit torrent client on top of UDP is something that I want to work
+simple Python torrent client on top of UDP is something that I want to work
 on. Hopefully I can do something like that soon.
